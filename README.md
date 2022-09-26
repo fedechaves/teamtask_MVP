@@ -2,9 +2,6 @@
 
 A simple and collaborative fullstack Task managing App, built for Teams and Individuals to track and manage their tasks, keeping the workspace productive and organized.
 
-
-**Link to project:** https://github.com/brandon003/todo-mvc-auth
-
 ![login](public/images/loginScreenShot.png)
 ![signup](public/images/signupScreenShot.png)
 ![dashboard page](public/images/team-task-gif.gif)
